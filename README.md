@@ -1,1 +1,1 @@
-# practical-machine-learning
+# coursera-predictive-modelling
